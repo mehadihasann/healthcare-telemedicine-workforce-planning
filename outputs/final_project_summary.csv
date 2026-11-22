@@ -1,0 +1,12 @@
+Metric,Result
+Total Simulated Requests,35729.0
+Dataset Records,4344.0
+Weekday-Hour Combinations,168.0
+Baseline AHT (minutes),12.5
+Shrinkage (%),20.0
+Peak Hourly Doctor Requirement,5.0
+Weekly Doctor-Shift Assignments,79.0
+July Forecast Daily Demand,207.45
+AHT 10-Minute Total Requirements,377.0
+AHT 12.5-Minute Total Requirements,448.0
+AHT 15-Minute Total Requirements,515.0
